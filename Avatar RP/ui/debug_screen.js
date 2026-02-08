@@ -19,7 +19,7 @@
       {
         "label": {
           "type": "label",
-          "text": "Avatar Addon 1.0.2 - GlitchyTurtle",
+          "text": " ",
           "font_scale_factor": 0.6,
           "text_alignment": "right",
           "size": [ "100% - 6px", "default" ],
