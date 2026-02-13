@@ -373,13 +373,7 @@ const creditsMenu = (player) => {
             'GlitchyTurtle32'
         ],
         contributors: [
-            'Theorist',
-            'iHeroic',
-            'Sir Jackster'
-        ],
-        translators: [
-            'GlitchyTurtle32',
-            'theoneloading'
+           'HeyItsBob36'
         ],
         special_thanks: [
             'IBk',
@@ -393,52 +387,10 @@ const creditsMenu = (player) => {
             'ButterJaffa',
             'John',
             'Apple Slice',
-            'jal191209'
-        ],
-        patrons: [
-            'DeathBot',
-            'zackeryruin',
-            'Hype7828',
-            'Chakurow',
-            'Jhonnyredman',
-            'Jp123nona',
-            'Kobethatboy',
-            'Stewie6408',
-            'craigthecreature',
-            'soma4811',
-            'chakuro',
-            'Stewie',
-            'Bushy',
-            'DracoRex1912',
-            'avariss',
-            'rattenkönig',
-            'lfun 621',
-            'Syafiq Zamri',
-            'Jhonny Gray',
-            'Epic Gaming Warrior',
-            'Malachi',
-            'Kalvin Cronin-Green',
-            'Frosty',
-            'ShinyStarles',
-            'Steeltaysirtm',
-            'JDEE 008',
-            'Captain AJ4145',
-            'BorderlifeGames',
-        ],
-        beta: [
-            'DeathBot',
-            'theman0fmanynames',
-            'IBk',
-            'itzmeserpent',
             'jal191209',
-            'j3ll04',
-            'galaxy__g',
-            'yusufgamer0920',
-            'zackeryruin',
-            'wild0938',
-            'whitedevil06',
-            'monarch252764',
-            'sleepyisbatman'
+			'Theorist',
+            'iHeroic',
+            'Sir Jackster'
         ]
     }
 
