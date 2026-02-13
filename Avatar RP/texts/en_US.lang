@@ -354,12 +354,9 @@ scroll.teams.disband.description=Are you absolutely sure you want to disband you
 ## Credits
 scroll.credits.title=Credits
 scroll.credits.description=The people who made this possible!
-scroll.credits.author=Author
-scroll.credits.contributors=Contributors
-scroll.credits.translators=Translators
+scroll.credits.author=Original Author
+scroll.credits.contributors=Adapted By
 scroll.credits.special_thanks=Special Thanks
-scroll.credits.patrons=Patrons
-scroll.credits.beta=Beta Testers
 
 ## Quick Settings
 scroll.settings.quick.title=Quick Settings
