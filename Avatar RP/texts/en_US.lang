@@ -516,7 +516,7 @@ scroll.admin.world.ban_moves_description=Select a move to ban or unban!
 scroll.admin.world.ban_moves.banned=Banned the move %s!
 scroll.admin.world.ban_moves.unbanned=Unbanned the move %s!
 
-scroll.admin.no_permission=You don't have permission to use open this menu! If you are op, try running the '/function op' command.
+scroll.admin.no_permission=You don't have permission to use open this menu!
 
 ## Updates
 scroll.updates.title=View Update Notes
