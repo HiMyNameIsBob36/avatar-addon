@@ -404,21 +404,9 @@ const creditsMenu = (player) => {
         { text: '\n§7' },
         { text: people.contributors.join('\n') },
         { text: '\n\n§p' },
-        { translate: 'scroll.credits.translators' },
-        { text: '\n§7' },
-        { text: people.translators.join('\n') },
-        { text: '\n\n§p' },
         { translate: 'scroll.credits.special_thanks' },
         { text: '\n§7' },
         { text: people.special_thanks.join('\n') },
-        { text: '\n\n§p' },
-        { translate: 'scroll.credits.patrons' },
-        { text: '\n§7' },
-        { text: people.patrons.join('\n') },
-        { text: '\n\n§p' },
-        { translate: 'scroll.credits.beta' },
-        { text: '\n§7' },
-        { text: people.beta.join('\n') },
     ]})
 
     creditsForm.button('Back', 'textures/ui/avatar/back');
