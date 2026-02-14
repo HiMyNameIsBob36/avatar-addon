@@ -482,7 +482,7 @@ scroll.admin.world.basic.bending_level_speed_desc=The speed at which the player 
 scroll.admin.world.basic.bending_level_speed_prefix=Change to
 scroll.settings.bending_level_speed_changed=Updated bending level speed to %s.
 
-scroll.statsmenu.homes.disabled=Homes are disabled for this server!
+scroll.statsmenu.homes.disabled=Homes are temporarily locked for now! If you do wan't homes, let us lnow in the Disocrd!
 
 scroll.no_bending_zones.create.title=Nonbending Zone
 scroll.no_bending_zones.create.description=Zone Name:
